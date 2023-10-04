@@ -1,0 +1,18 @@
+{
+  "name": "moduls-17",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "prisma": "^5.3.1"
+  },
+  "description": "",
+  "dependencies": {
+    "@prisma/client": "^5.3.1"
+  }
+}
